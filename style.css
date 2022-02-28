@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    color:white;
+}
+#header{
+    font-weight:bold;
+}
+#buttongreen{
+    border-color:aqua;
+    border-width:2px;
+    border-radius: 3px;
+}
+#buttonblue{
+    border-color:lightgreen;
+    border-width:2px;
+    border-radius: 3px;
+}
